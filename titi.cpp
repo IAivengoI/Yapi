@@ -1,5 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "titikiiii!!!!";
+    std::cout << "новая версия титек!!";
 }
+
+//damn
